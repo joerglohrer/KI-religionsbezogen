@@ -1,6 +1,6 @@
 # Lernmodul: Künstliche Intelligenz im Religionsunterricht
 
-> :floppy_disk:   Bearbeitungsstand immer aktuell [hier im git](https://git.rpi-virtuell.de/Comenius-Institut/KI-religionsbezogen/Lernmodul-KI-RU.md) speichern
+> :floppy_disk:   Bearbeitungsstand immer aktuell [hier im git](https://git.rpi-virtuell.de/Comenius-Institut/KI-religionsbezogen/src/branch/main/Lernmodul-KI-RU.md) speichern
 > :memo: Untenstehende Arbeitskopie zur kollaborativen Bearbeitung in Echtzeit [hier als HedgeDoc](https://pad.gwdg.de/i1v-SZLqS3qYWVnUxu0hoQ?both)
 > :link: Kurzlink: https://comenius.de/Lernmodul-KI-RU
 
